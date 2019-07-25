@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\Jorge\Documents\GitHub\nvHIL\Vivado\NV_project\NV_project\NV_project.sdk\NV_FSBL\Debug\NV_FSBL.elf
+	C:\Users\Jorge\Documents\GitHub\nvHIL\Vivado\NV_project\NV_project\NV_project.sdk\NV_project_wrapper_hw_platform_3\NV_project_wrapper.bit
+	C:\Users\Jorge\Documents\GitHub\nvHIL\Vivado\NV_project\NV_project\NV_project.sdk\NV_ARM_0\Debug\NV_ARM_0.elf
+}

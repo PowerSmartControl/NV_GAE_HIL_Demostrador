@@ -1,0 +1,8 @@
+10:25:43 **** Auto Build of configuration Debug for project bbbb ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: No se hace nada para `main-build'.
+
+10:25:43 Build Finished (took 194ms)
+

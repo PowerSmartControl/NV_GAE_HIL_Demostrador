@@ -1,0 +1,6 @@
+14:44:38 **** Auto Build of project NV_FSBL_bsp ****
+make -k all 
+make: *** No hay ninguna regla para construir el objetivo `all'.
+
+14:44:38 Build Finished (took 80ms)
+

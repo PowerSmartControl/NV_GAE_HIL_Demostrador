@@ -1,0 +1,392 @@
+{
+   ExpandedHierarchyInLayout: "",
+   comment_0: " ",
+   comment_1: " ",
+   comment_2: " ",
+   comment_3: " ",
+   commentid: "comment_0|comment_1|comment_2|comment_3|",
+   fillcolor_comment_0: "",
+   fillcolor_comment_1: "",
+   font_comment_0: "10",
+   font_comment_1: "11",
+   font_comment_2: "14",
+   font_comment_3: "14",
+   guistr: "# # String gsaved with Nlview 6.6.11  2017-06-12 bk=1.3860 VDI=40 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port SCLK_out_0 -pg 1 -y 1020 -defaultsOSRD
+preplace port Din_out_16 -pg 1 -y 2540 -defaultsOSRD
+preplace port Din_out_2 -pg 1 -y 2310 -defaultsOSRD
+preplace port DRIVER_UP_00 -pg 1 -y 1420 -defaultsOSRD
+preplace port Din_out_17 -pg 1 -y 1140 -defaultsOSRD
+preplace port SCLK_out_1 -pg 1 -y 1050 -defaultsOSRD
+preplace port Din_out_3 -pg 1 -y 2120 -defaultsOSRD
+preplace port DRIVER_UP_01 -pg 1 -y 1450 -defaultsOSRD
+preplace port Din_out_18 -pg 1 -y 1450 -defaultsOSRD
+preplace port SCLK_out_2 -pg 1 -y 1070 -defaultsOSRD
+preplace port Din_out_4 -pg 1 -y 1160 -defaultsOSRD
+preplace port DRIVER_UP_02 -pg 1 -y 1480 -defaultsOSRD
+preplace port DRIVER_DOWN_00 -pg 1 -y 1670 -defaultsOSRD
+preplace port DRIVER_UP_03 -pg 1 -y 1510 -defaultsOSRD
+preplace port Din_out_19 -pg 1 -y 1300 -defaultsOSRD
+preplace port SCLK_out_3 -pg 1 -y 1970 -defaultsOSRD
+preplace port Din_out_5 -pg 1 -y 1750 -defaultsOSRD
+preplace port DRIVER_DOWN_01 -pg 1 -y 1700 -defaultsOSRD
+preplace port DRIVER_UP_04 -pg 1 -y 1540 -defaultsOSRD
+preplace port SCLK_out_4 -pg 1 -y 2070 -defaultsOSRD
+preplace port Din_out_6 -pg 1 -y 1680 -defaultsOSRD
+preplace port DRIVER_DOWN_02 -pg 1 -y 1730 -defaultsOSRD
+preplace port DRIVER_UP_05 -pg 1 -y 1580 -defaultsOSRD
+preplace port nCS_0 -pg 1 -y 2020 -defaultsOSRD
+preplace port nSync_out_6 -pg 1 -y 1120 -defaultsOSRD
+preplace port Din_out_7 -pg 1 -y 2610 -defaultsOSRD
+preplace port DRIVER_DOWN_03 -pg 1 -y 1760 -defaultsOSRD
+preplace port DRIVER_DOWN_04 -pg 1 -y 1800 -defaultsOSRD
+preplace port DRIVER_UP_06 -pg 1 -y 1630 -defaultsOSRD
+preplace port scl_0 -pg 1 -y 1880 -defaultsOSRD
+preplace port SCLK_0 -pg 1 -y 2000 -defaultsOSRD
+preplace port SCLK_out_6 -pg 1 -y 2270 -defaultsOSRD
+preplace port Din_out_8 -pg 1 -y 1940 -defaultsOSRD
+preplace port DRIVER_DOWN_05 -pg 1 -y 1820 -defaultsOSRD
+preplace port SCLK_out_7 -pg 1 -y 1100 -defaultsOSRD
+preplace port Din_out_9 -pg 1 -y 1380 -defaultsOSRD
+preplace port Din_out_10 -pg 1 -y 1340 -defaultsOSRD
+preplace port scl_1 -pg 1 -y 860 -defaultsOSRD
+preplace port DDR_0 -pg 1 -y -330 -defaultsOSRD
+preplace port DRIVER_DOWN_06 -pg 1 -y 1850 -defaultsOSRD
+preplace port sda_0 -pg 1 -y 1900 -defaultsOSRD
+preplace port nRST_out_0 -pg 1 -y 1850 -defaultsOSRD
+preplace port Din_out_11 -pg 1 -y 1490 -defaultsOSRD
+preplace port Din_out_12 -pg 1 -y 2390 -defaultsOSRD
+preplace port sda_1 -pg 1 -y 890 -defaultsOSRD
+preplace port nRST_out_1 -pg 1 -y 1730 -defaultsOSRD
+preplace port SDATA1_0 -pg 1 -y 1940 -defaultsOSRD
+preplace port Din_out_13 -pg 1 -y 2240 -defaultsOSRD
+preplace port Din_out_20 -pg 1 -y 1600 -defaultsOSRD
+preplace port Din_out_14 -pg 1 -y 2090 -defaultsOSRD
+preplace port Din_out_0 -pg 1 -y 1530 -defaultsOSRD
+preplace port FIXED_IO_0 -pg 1 -y -310 -defaultsOSRD
+preplace port nSync_out_0 -pg 1 -y 1510 -defaultsOSRD
+preplace port Din_out_15 -pg 1 -y 1640 -defaultsOSRD
+preplace port Din_out_1 -pg 1 -y 2460 -defaultsOSRD
+preplace inst rst_ps7_0_50M -pg 1 -lvl 2 -y -180 -defaultsOSRD
+preplace inst xlconstant_11 -pg 1 -lvl 5 -y 1670 -defaultsOSRD
+preplace inst Test_normal_mode_MUX_0 -pg 1 -lvl 21 -y 2360 -defaultsOSRD
+preplace inst parameter_load_2_0 -pg 1 -lvl 11 -y 2670 -defaultsOSRD
+preplace inst lcl_filter_0 -pg 1 -lvl 19 -y 760 -defaultsOSRD -resize 307 396
+preplace inst NV_parameter_load_0 -pg 1 -lvl 11 -y 1340 -defaultsOSRD
+preplace inst xlconstant_12 -pg 1 -lvl 10 -y 940 -defaultsOSRD
+preplace inst De_Multiplexer_8b_0 -pg 1 -lvl 8 -y 1660 -defaultsOSRD
+preplace inst xlconstant_24 -pg 1 -lvl 19 -y 1120 -defaultsOSRD
+preplace inst NV_io_controller_0 -pg 1 -lvl 11 -y 2000 -defaultsOSRD
+preplace inst rst_ps7_0_10M -pg 1 -lvl 2 -y -10 -defaultsOSRD
+preplace inst xlconstant_13 -pg 1 -lvl 15 -y 2060 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 15 -y 2690 -defaultsOSRD
+preplace inst bridge3ph_0 -pg 1 -lvl 11 -y 840 -defaultsOSRD
+preplace inst pmsm_0 -pg 1 -lvl 7 -y 640 -defaultsOSRD
+preplace inst gain_offset_truncation_1 -pg 1 -lvl 19 -y 1590 -defaultsOSRD
+preplace inst xlconstant_1 -pg 1 -lvl 24 -y 2060 -defaultsOSRD
+preplace inst xlconstant_14 -pg 1 -lvl 15 -y 2150 -defaultsOSRD
+preplace inst xlconstant_15 -pg 1 -lvl 15 -y 2240 -defaultsOSRD
+preplace inst xlconstant_2 -pg 1 -lvl 4 -y 1260 -defaultsOSRD
+preplace inst DCbus_dynamic_0 -pg 1 -lvl 13 -y 890 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 17 -y 830 -defaultsOSRD
+preplace inst xlconstant_16 -pg 1 -lvl 15 -y 2330 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 1 -y 60 -defaultsOSRD
+preplace inst xlconstant_3 -pg 1 -lvl 4 -y 1350 -defaultsOSRD
+preplace inst xlconstant_4 -pg 1 -lvl 2 -y 500 -defaultsOSRD
+preplace inst serial_interrupt_0 -pg 1 -lvl 1 -y 190 -defaultsOSRD
+preplace inst TCA9538_driver_0 -pg 1 -lvl 23 -y 2300 -defaultsOSRD
+preplace inst xlconcat_1 -pg 1 -lvl 15 -y 1940 -defaultsOSRD
+preplace inst NOT_8_0 -pg 1 -lvl 7 -y 1670 -defaultsOSRD
+preplace inst xlconstant_17 -pg 1 -lvl 24 -y 1970 -defaultsOSRD
+preplace inst dc_dc_0 -pg 1 -lvl 15 -y 310 -defaultsOSRD
+preplace inst xlconstant_5 -pg 1 -lvl 18 -y 1640 -defaultsOSRD
+preplace inst bit_order_adjust_tca9538_1 -pg 1 -lvl 22 -y 2350 -defaultsOSRD
+preplace inst xlconcat_2 -pg 1 -lvl 14 -y 1840 -defaultsOSRD
+preplace inst IGBT_input_selector_0 -pg 1 -lvl 4 -y 1630 -defaultsOSRD
+preplace inst xlconstant_18 -pg 1 -lvl 12 -y 2340 -defaultsOSRD
+preplace inst grid_0 -pg 1 -lvl 20 -y 770 -defaultsOSRD
+preplace inst xlconstant_19 -pg 1 -lvl 16 -y 830 -defaultsOSRD
+preplace inst xlconcat_3 -pg 1 -lvl 14 -y 2070 -defaultsOSRD
+preplace inst xlconstant_6 -pg 1 -lvl 9 -y 1940 -defaultsOSRD
+preplace inst system_ila_0 -pg 1 -lvl 12 -y 1160 -defaultsOSRD
+preplace inst grid_bridge3ph_0 -pg 1 -lvl 15 -y 930 -defaultsOSRD
+preplace inst xlconcat_4 -pg 1 -lvl 14 -y 2300 -defaultsOSRD
+preplace inst AD1RefComp_0 -pg 1 -lvl 8 -y 1950 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 3 -y -298 -defaultsOSRD
+preplace inst start_200ns_0 -pg 1 -lvl 13 -y 570 -defaultsOSRD
+preplace inst start_peripheral_0 -pg 1 -lvl 21 -y 3010 -defaultsOSRD
+preplace inst TCA9538_driver_input_0 -pg 1 -lvl 6 -y 1670 -defaultsOSRD
+preplace inst xlconstant_20 -pg 1 -lvl 12 -y 2430 -defaultsOSRD
+preplace inst gen_referencias_0 -pg 1 -lvl 5 -y 1270 -defaultsOSRD
+preplace inst DAC_121s101_0 -pg 1 -lvl 20 -y 1350 -defaultsOSRD
+preplace inst xlconstant_8 -pg 1 -lvl 9 -y 2210 -defaultsOSRD
+preplace inst FSM_0 -pg 1 -lvl 3 -y 1000 -defaultsOSRD
+preplace inst xlconstant_21 -pg 1 -lvl 24 -y 2150 -defaultsOSRD
+preplace inst xlconstant_9 -pg 1 -lvl 9 -y 2120 -defaultsOSRD
+preplace inst rst_ps7_0_100M -pg 1 -lvl 2 -y -420 -defaultsOSRD
+preplace inst three_ph_modulator_0 -pg 1 -lvl 13 -y 190 -defaultsOSRD
+preplace inst AD_5293_v2_0 -pg 1 -lvl 25 -y 1700 -defaultsOSRD
+preplace inst xlconstant_22 -pg 1 -lvl 24 -y 1730 -defaultsOSRD
+preplace inst xlconstant_10 -pg 1 -lvl 9 -y 2030 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -y -160 -defaultsOSRD
+preplace inst wind_turb_0 -pg 1 -lvl 4 -y 670 -defaultsOSRD
+preplace netloc DAC_121s101_0_D8 1 20 6 N 1300 N 1300 N 1300 N 1300 N 1300 12420
+preplace netloc DAC_121s101_0_D9 1 20 6 N 1320 N 1320 N 1320 N 1320 N 1320 12590
+preplace netloc xlconstant_15_dout 1 15 6 N 2240 N 2240 N 2240 N 2240 N 2240 9960
+preplace netloc ps7_0_axi_periph_M00_AXI 1 0 4 -60J -520 NJ -520 NJ -520 1360
+preplace netloc bridge3ph_0_Vn_gnd_V 1 6 6 2600 1050 N 1050 N 1050 N 1050 N 1050 4430
+preplace netloc xlconstant_1_dout 1 22 3 11550 2160 11840 2210 12030
+preplace netloc grid_0_mod_a 1 12 9 5230 1260 N 1260 N 1260 N 1260 N 1260 N 1260 N 1260 9260 1000 9950
+preplace netloc xlconstant_8_dout 1 9 2 3620 2040 N
+preplace netloc gain_offset_truncation_0_out_I_pmsm_a_V 1 19 2 9230 1730 10110
+preplace netloc grid_0_mod_b 1 12 9 5240 1290 N 1290 N 1290 N 1290 N 1290 N 1290 N 1290 9290 970 9890
+preplace netloc DAC_121s101_0_CLK_OUT 1 20 6 N 1500 N 1500 N 1500 N 1500 N 1500 12580
+preplace netloc NV_parameter_load_0_mode_igbt_input 1 3 9 1440 1440 N 1440 N 1440 N 1440 N 1440 N 1440 N 1440 3810 1580 4660
+preplace netloc grid_0_mod_c 1 12 9 5250 1110 N 1110 N 1110 7010 1070 N 1070 N 1070 N 1070 N 1070 9910
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 1 1 500
+preplace netloc xlconcat_1_dout 1 15 4 6990 1820 7710 1820 N 1820 N
+preplace netloc lcl_filter_0_IL1_c_r 1 14 6 6110 1480 NJ 1480 NJ 1480 NJ 1480 8380J 1890 9100
+preplace netloc DRIVER_DOWN_04_1 1 0 4 -40 1770 N 1770 N 1770 N
+preplace netloc xlconstant_21_dout 1 22 3 11540 2170 11830 2200 12020
+preplace netloc pmsm_0_Is_c_V 1 7 4 N 620 3370 670 N 670 3880
+preplace netloc bit_order_adjust_tca9538_1_u14_data_out 1 22 1 11520
+preplace netloc dc_dc_0_T1_out 1 11 15 4760 1530 5000 680 N 680 6080 680 7000 670 N 670 N 670 8410 980 N 980 N 980 N 980 N 980 N 980 N 980 12630
+preplace netloc lcl_filter_0_IL1_a_r 1 14 6 6060 1460 NJ 1460 NJ 1460 NJ 1460 8410J 1900 9130
+preplace netloc AD1RefComp_0_SCLK 1 8 18 3390J 1590 NJ 1590 NJ 1590 NJ 1590 NJ 1590 NJ 1590 NJ 1590 NJ 1590 NJ 1590 NJ 1590 8320J 1870 9070J 1790 NJ 1790 NJ 1790 NJ 1790 NJ 1790 12060J 1820 12430J
+preplace netloc grid_bridge3ph_0_Va_r 1 15 4 7010 680 NJ 680 NJ 680 8350J
+preplace netloc xlconcat_4_dout 1 14 7 6010 2640 NJ 2640 NJ 2640 NJ 2640 NJ 2640 NJ 2640 9880J
+preplace netloc DRIVER_UP_04_1 1 0 4 N 1540 N 1540 N 1540 1360
+preplace netloc rst_ps7_0_100M_interconnect_aresetn 1 2 1 990
+preplace netloc NV_parameter_load_0_counter_limit 1 11 9 4580 830 5120 1170 N 1170 N 1170 7010 1200 N 1200 N 1200 N 1200 9170
+preplace netloc Test_normal_mode_MUX_0_DigPot_output_1 1 21 4 11040 1800 NJ 1800 NJ 1800 12070J
+preplace netloc gain_offset_truncation_1_out_I_LCL_2_b_V 1 19 2 9320 1600 10200
+preplace netloc Test_normal_mode_MUX_0_DigPot_output_2 1 21 4 11030 1770 NJ 1770 11820J 1780 12080J
+preplace netloc Test_normal_mode_MUX_0_DigPot_output_3 1 21 4 11050 1820 NJ 1820 NJ 1820 12050J
+preplace netloc AD1RefComp_0_nCS 1 8 18 3380J 620 NJ 620 NJ 620 4430J 680 4980J 1150 NJ 1150 NJ 1150 6990J 1010 NJ 1010 NJ 1010 NJ 1010 NJ 1010 NJ 1010 NJ 1010 NJ 1010 NJ 1010 NJ 1010 12560J
+preplace netloc processing_system7_0_FIXED_IO 1 1 25 490J -270 960J -100 1360J -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 NJ -320 12630J
+preplace netloc Test_normal_mode_MUX_0_DigPot_output_4 1 21 4 11070 1840 NJ 1840 NJ 1840 12090J
+preplace netloc NV_parameter_load_0_rC 1 11 8 4540 770 5190 1030 5690 640 N 640 6970 650 N 650 N 650 8450
+preplace netloc parameter_load_2_0_dc_dc_enable 1 11 4 4570 360 NJ 360 5690J 310 NJ
+preplace netloc grid_0_Grid_c_r 1 18 3 8500 2030 NJ 2030 9960
+preplace netloc NOT_8_0_out_8 1 7 4 2960 1790 N 1790 N 1790 3790
+preplace netloc rst_ps7_0_10M_peripheral_aresetn 1 2 23 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 N 30 12040
+preplace netloc bit_order_adjust_tca9538_1_u12_data_out 1 22 1 11520
+preplace netloc gain_offset_truncation_1_out_I_LCL_1_b_V 1 19 2 9360 1670 10190
+preplace netloc xlconstant_6_dout 1 9 2 N 1940 3780
+preplace netloc xlconstant_5_dout 1 18 1 8470
+preplace netloc rst_ps7_0_100M_peripheral_aresetn 1 0 23 -40 260 NJ 260 970 690 1350 1170 1860 1170 2180 1170 2540 1490 3000 1490 N 1490 N 1490 3830 1080 4500 700 5060 10 N 10 6020 620 N 620 N 620 N 620 8390 1040 9280 1870 10020 3120 11120 2240 N
+preplace netloc dc_dc_0_T3_out 1 11 5 4770 1540 5100 700 N 700 6010 700 6990
+preplace netloc grid_0_I_out_proof 1 12 9 5260 1250 NJ 1250 NJ 1250 7020J 1030 NJ 1030 NJ 1030 NJ 1030 NJ 1030 9880
+preplace netloc bridge3ph_0_Vb_V 1 6 6 2590 1010 N 1010 N 1010 N 1010 3840 1020 4440
+preplace netloc pmsm_0_Is_b_V 1 7 4 N 600 N 600 N 600 3890
+preplace netloc NV_io_controller_0_analog_output_maxValue_1 1 11 10 4800J 1720 N 1720 N 1720 N 1720 N 1720 N 1720 N 1720 8230 1930 N 1930 N
+preplace netloc NV_io_controller_0_analog_output_maxValue_2 1 11 10 4700J 1680 N 1680 N 1680 N 1680 N 1680 N 1680 7900 1690 8270 1950 N 1950 N
+preplace netloc NV_io_controller_0_analog_output_maxValue_3 1 11 10 4430J 1690 N 1690 N 1690 6070 1700 N 1700 N 1700 N 1700 8240 1960 N 1960 10210
+preplace netloc NV_io_controller_0_analog_output_maxValue_4 1 11 10 4690J 1580 5180 1500 N 1500 N 1500 N 1500 N 1500 N 1500 8330 1970 N 1970 10180
+preplace netloc wind_turb_0_Wn_V 1 4 3 N 670 N 670 2550
+preplace netloc NV_io_controller_0_analog_output_maxValue_5 1 11 10 4470J 1700 N 1700 N 1700 6010 1730 N 1730 N 1730 N 1730 8180 1990 N 1990 10140
+preplace netloc TCA9538_driver_input_0_data_out 1 6 1 2490
+preplace netloc NV_io_controller_0_analog_output_maxValue_6 1 11 10 NJ 1850 5170 1410 N 1410 N 1410 N 1410 N 1410 N 1410 8340 2000 N 2000 10130
+preplace netloc NV_parameter_load_0_sp1 1 11 3 4730 1620 N 1620 5740
+preplace netloc xlconstant_24_dout 1 19 1 9310
+preplace netloc NV_io_controller_0_analog_output_maxValue_7 1 11 10 NJ 1870 5190 1420 N 1420 N 1420 N 1420 N 1420 N 1420 8310 2050 N 2050 N
+preplace netloc NV_io_controller_0_analog_output_maxValue_8 1 11 10 NJ 1890 5200 1430 N 1430 N 1430 N 1430 N 1430 N 1430 8290 2070 N 2070 N
+preplace netloc xlconstant_9_dout 1 9 2 3610 2020 N
+preplace netloc NV_parameter_load_0_inv_seq 1 11 9 4640 840 5040 1180 N 1180 N 1180 7030 1170 N 1170 N 1170 8370 1180 9200
+preplace netloc NV_io_controller_0_analog_output_maxValue_9 1 11 10 NJ 1910 N 1910 5650 1440 N 1440 N 1440 N 1440 N 1440 8280 2080 N 2080 10100
+preplace netloc pmsm_0_Is_a_V 1 7 4 N 580 N 580 N 580 3910
+preplace netloc pmsm_0_Tem_V 1 3 5 1440 790 NJ 790 N 790 2500 800 2940
+preplace netloc DRIVER_UP_06_1 1 0 4 N 1630 N 1630 N 1630 1340
+preplace netloc xlconstant_4_dout 1 2 2 NJ 500 1340
+preplace netloc dc_dc_0_V_N_gnd_out 1 15 4 NJ 370 NJ 370 NJ 370 8470
+preplace netloc grid_bridge3ph_0_Idc_r 1 12 4 5270 1220 NJ 1220 NJ 1220 6940
+preplace netloc grid_0_Grid_a_r 1 18 3 8480 1940 NJ 1940 9980
+preplace netloc xlconstant_10_dout 1 9 2 3600 2000 N
+preplace netloc grid_bridge3ph_0_Vb_r 1 15 4 7030 710 NJ 710 NJ 710 8360J
+preplace netloc xlconstant_19_dout 1 16 1 7700
+preplace netloc grid_bridge3ph_0_V_n_gnd_r 1 14 2 6110 480 6930
+preplace netloc gain_offset_truncation_1_out_V_grid_b_V 1 19 2 9380 1660 10090
+preplace netloc lcl_filter_0_Vp_a_r 1 18 2 8520 2040 9090
+preplace netloc dc_dc_0_T6_out 1 11 5 4800 1500 5110 1130 N 1130 6030 1130 6960
+preplace netloc xlconstant_16_dout 1 15 6 N 2330 N 2330 N 2330 N 2330 N 2330 9950
+preplace netloc DRIVER_UP_05_1 1 0 4 N 1580 N 1580 N 1580 1350
+preplace netloc gain_offset_truncation_1_out_V_fem_c_V 1 19 2 N 1740 9990
+preplace netloc FSM_0_Start1 1 12 8 5270 500 5650 500 6090 600 N 600 N 600 N 600 8430 1000 9140
+preplace netloc AD_5293_v2_0_D1 1 25 1 12500
+preplace netloc AD_5293_v2_0_D2 1 25 1 12530
+preplace netloc TCA9538_driver_0_nRST_out 1 23 3 11820 1850 N 1850 NJ
+preplace netloc NV_io_controller_0_Expansor_output_value_1 1 11 10 NJ 2190 N 2190 5700 2570 N 2570 N 2570 N 2570 N 2570 N 2570 N 2570 9920
+preplace netloc NV_io_controller_0_Expansor_output_value_2 1 11 10 NJ 2210 N 2210 5680 2580 N 2580 N 2580 N 2580 N 2580 N 2580 N 2580 9900
+preplace netloc parameter_load_2_0_rL1 1 11 8 4650 740 N 740 N 740 N 740 N 740 N 740 N 740 8420
+preplace netloc DAC_121s101_0_D10 1 20 6 N 1340 N 1340 N 1340 N 1340 N 1340 12540
+preplace netloc NV_io_controller_0_Expansor_output_value_3 1 11 10 NJ 2230 N 2230 5660 2590 N 2590 N 2590 N 2590 N 2590 N 2590 N 2590 9890
+preplace netloc parameter_load_2_0_rL2 1 11 8 4630 750 N 750 N 750 N 750 N 750 N 750 N 750 8380
+preplace netloc DAC_121s101_0_D11 1 20 6 N 1360 N 1360 N 1360 N 1360 N 1360 12510
+preplace netloc DAC_121s101_0_D12 1 20 6 N 1380 N 1380 N 1380 N 1380 N 1380 N
+preplace netloc DAC_121s101_0_D13 1 20 6 N 1400 N 1400 N 1400 N 1400 N 1400 12470
+preplace netloc DAC_121s101_0_D14 1 20 6 N 1420 N 1420 N 1420 N 1420 N 1420 12440
+preplace netloc DAC_121s101_0_D15 1 20 6 N 1440 N 1440 N 1440 N 1440 N 1440 12410
+preplace netloc DAC_121s101_0_D16 1 20 6 N 1460 N 1460 N 1460 N 1460 N 1460 12400
+preplace netloc DAC_121s101_0_D17 1 20 6 N 1480 N 1480 N 1480 N 1480 N 1480 12390
+preplace netloc DRIVER_DOWN_05_1 1 0 4 -50 1750 N 1750 N 1750 N
+preplace netloc dc_dc_0_T4_out 1 11 5 4780 1520 5070 710 N 710 6040 650 6940
+preplace netloc xlconcat_3_dout 1 14 7 6080J 2380 NJ 2380 N 2380 N 2380 N 2380 N 2380 9910
+preplace netloc gain_offset_truncation_1_out_V_grid_c_V 1 19 2 9410 1680 10070
+preplace netloc xlconstant_17_dout 1 22 3 11530 1140 N 1140 12020
+preplace netloc xlconstant_22_dout 1 19 6 9420 1110 N 1110 N 1110 N 1110 N 1110 12030
+preplace netloc dc_dc_0_T5_out 1 11 5 4790 1510 5080 720 N 720 6050 710 6950
+preplace netloc start_peripheral_0_Start_out_expa 1 21 2 11110 2260 NJ
+preplace netloc rst_ps7_0_50M_peripheral_aresetn 1 2 18 980 -500 N -500 N -500 N -500 N -500 2950 650 NJ 650 NJ 650 NJ 650 NJ 650 5170J 1230 NJ 1230 NJ 1230 NJ 1230 NJ 1230 NJ 1230 NJ 1230 9270J
+preplace netloc pmsm_0_ap_done 1 6 5 2580 790 2970 730 N 730 N 730 N
+preplace netloc serial_interrupt_0_Console_1s_interrupt 1 1 1 430
+preplace netloc De_Multiplexer_8b_0_NOT_data_out_7 1 8 7 3400J 1640 NJ 1640 NJ 1640 4500J 1660 NJ 1660 5790 1650 6050
+preplace netloc DRIVER_UP_03_1 1 0 13 -50J 830 NJ 830 NJ 830 NJ 830 NJ 830 NJ 830 NJ 830 2960J 630 NJ 630 NJ 630 NJ 630 4440J 620 5210
+preplace netloc lcl_filter_0_IL2_a_r 1 18 2 8540 1250 9080
+preplace netloc DCbus_dynamic_0_V_bus 1 13 6 NJ 890 6000 1140 N 1140 N 1140 N 1140 8360
+preplace netloc xlconstant_12_dout 1 10 1 3860J
+preplace netloc lcl_filter_0_Vp_c_r 1 18 2 8550 1920 9060
+preplace netloc dc_dc_0_T2_out 1 11 15 4750 1550 5090 690 N 690 6030 690 7020 690 N 690 N 690 8370 990 N 990 N 990 N 990 N 990 N 990 N 990 12620
+preplace netloc start_peripheral_0_Start_inp_expa 1 5 17 2210 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 N 3130 N 3130 N 3130 N 3130 N 3130 11020
+preplace netloc gain_offset_truncation_1_out_I_pmsm_b_V 1 19 2 9310 1590 10240
+preplace netloc ps7_0_axi_periph_M02_AXI 1 3 8 1340J -300 NJ -300 N -300 N -300 N -300 N -300 N -300 3850
+preplace netloc data_out_5 1 8 1 N
+preplace netloc data_out_6 1 8 1 N
+preplace netloc NV_parameter_load_0_DC_bus_fived 1 11 2 4720 1490 5030
+preplace netloc Net 1 23 3 11860 1900 N 1900 NJ
+preplace netloc three_ph_modulator_0_T1 1 13 2 NJ 140 6100
+preplace netloc bridge3ph_0_Vc_V 1 6 6 2570 1060 N 1060 N 1060 N 1060 N 1060 4450
+preplace netloc three_ph_modulator_0_T2 1 13 2 NJ 160 6080
+preplace netloc wind_turb_0_ap_done 1 3 4 1370 560 NJ 560 N 560 N
+preplace netloc three_ph_modulator_0_T3 1 13 2 NJ 180 6070
+preplace netloc three_ph_modulator_0_T4 1 13 2 NJ 200 6030
+preplace netloc NV_parameter_load_0_dt_L1 1 11 8 4490 640 N 640 5650 620 6000 630 N 630 N 630 N 630 8460
+preplace netloc three_ph_modulator_0_T5 1 13 2 NJ 220 6010
+preplace netloc NV_parameter_load_0_dt_L2 1 11 8 4530 690 4990 670 N 670 N 670 6980 640 N 640 N 640 8310
+preplace netloc three_ph_modulator_0_T6 1 13 2 NJ 240 6000
+preplace netloc bit_order_adjust_tca9538_1_u10_data_out 1 22 1 11510
+preplace netloc NV_io_controller_0_potDig_output_value_1 1 11 10 NJ 2110 N 2110 5710 2610 N 2610 N 2610 N 2610 N 2610 N 2610 N 2610 N
+preplace netloc NV_io_controller_0_potDig_output_value_2 1 11 10 NJ 2130 N 2130 5690 2620 N 2620 N 2620 N 2620 N 2620 N 2620 N 2620 9940
+preplace netloc lcl_filter_0_IL1_b_r 1 14 6 6090 1470 NJ 1470 NJ 1470 NJ 1470 8450J 1880 9110
+preplace netloc NV_io_controller_0_potDig_output_value_3 1 11 10 NJ 2150 N 2150 5670 2630 N 2630 N 2630 N 2630 N 2630 N 2630 N 2630 9930
+preplace netloc NV_io_controller_0_potDig_output_value_4 1 11 10 NJ 2170 N 2170 5650 2740 N 2740 7020 2670 N 2670 N 2670 N 2670 N 2670 N
+preplace netloc ps7_0_axi_periph_M01_AXI 1 3 8 1340 -310 N -310 N -310 N -310 N -310 N -310 N -310 3900
+preplace netloc NV_parameter_load_0_t_step_C 1 11 2 4460 780 5200
+preplace netloc NV_io_controller_0_mode 1 11 10 NJ 1710 N 1710 N 1710 N 1710 N 1710 N 1710 N 1710 8190 2010 N 2010 10060
+preplace netloc AD1RefComp_0_DATA1 1 8 7 3400 1890 NJ 1890 3870J 350 N 350 N 350 5650 270 N
+preplace netloc FSM_0_Start 1 3 1 1360
+preplace netloc NV_parameter_load_0_phase_step 1 11 9 4740 1480 5130 1450 N 1450 N 1450 N 1450 N 1450 N 1450 8350 1310 9230
+preplace netloc xlconcat_2_dout 1 14 7 NJ 1840 NJ 1840 N 1840 N 1840 8140 2830 N 2830 N
+preplace netloc gain_offset_truncation_1_out_I_LCL_2_c_V 1 19 2 9330 1620 10160
+preplace netloc bridge3ph_0_Va_V 1 6 6 2560 1040 N 1040 N 1040 N 1040 N 1040 4480
+preplace netloc lcl_filter_0_IL2_c_r 1 18 2 8510 2060 9120
+preplace netloc NV_io_controller_0_mode_dac 1 11 10 4670 1570 NJ 1570 NJ 1570 NJ 1570 NJ 1570 NJ 1570 NJ 1570 8300J 1910 NJ 1910 NJ
+preplace netloc parameter_load_2_0_Preload 1 11 8 4620 730 N 730 N 730 N 730 N 730 N 730 N 730 8400
+preplace netloc grid_0_Grid_b_r 1 18 3 8490 2020 NJ 2020 9970
+preplace netloc xlconstant_3_dout 1 4 1 1890
+preplace netloc xlconstant_13_dout 1 15 6 N 2060 N 2060 N 2060 8150 2110 N 2110 9980
+preplace netloc processing_system7_0_FCLK_CLK1 1 0 23 -50 -340 470 -330 1000 670 1370 1150 1870 1150 2200 1150 2530 1520 2990 1520 N 1520 N 1520 3820 1070 4510 710 5050 0 N 0 6060 720 N 720 N 720 N 720 8440 1020 9220 1020 10010 3110 11090 2220 N
+preplace netloc processing_system7_0_FCLK_CLK2 1 1 19 460 -530 N -530 N -530 N -530 N -530 N -530 2980J 660 NJ 660 NJ 660 NJ 660 4580J 670 4970J 1270 NJ 1270 NJ 1270 NJ 1270 NJ 1270 NJ 1270 NJ 1270 9300J
+preplace netloc lcl_filter_0_Vp_b_r 1 18 2 8530 1050 9050
+preplace netloc gain_offset_truncation_0_out_V_fem_a_V 1 19 2 N 1700 10040
+preplace netloc processing_system7_0_FCLK_CLK3 1 1 24 510 80 990 -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 N -10 12080
+preplace netloc IGBT_input_selector_0_grid_T1 1 4 9 1820 200 N 200 N 200 N 200 N 200 N 200 N 200 N 200 N
+preplace netloc De_Multiplexer_8b_0_data_out_0 1 8 7 N 1580 N 1580 3780 1630 4520 1670 N 1670 5800 1660 6030
+preplace netloc IGBT_input_selector_0_grid_T2 1 4 9 1830 220 N 220 N 220 N 220 N 220 N 220 N 220 N 220 N
+preplace netloc NV_parameter_load_0_amp_a 1 11 9 4560 800 5160 1160 N 1160 N 1160 7030 1150 N 1150 N 1150 8380 1170 9150
+preplace netloc De_Multiplexer_8b_0_data_out_1 1 8 7 N 1620 N 1620 N 1620 4680 1600 N 1600 5760 1630 6100
+preplace netloc IGBT_input_selector_0_grid_T3 1 4 9 1840 240 N 240 N 240 N 240 N 240 N 240 N 240 N 240 N
+preplace netloc NV_parameter_load_0_amp_b 1 11 9 4470 810 5130 1190 N 1190 N 1190 N 1190 N 1190 N 1190 N 1190 9180
+preplace netloc De_Multiplexer_8b_0_data_out_2 1 8 6 N 1600 N 1600 N 1600 4480 1830 N 1830 N
+preplace netloc xlconstant_11_dout 1 5 1 2170
+preplace netloc IGBT_input_selector_0_grid_T4 1 4 9 1880 260 N 260 N 260 N 260 N 260 N 260 N 260 N 260 N
+preplace netloc AD_5293_v2_0_nSYNC 1 25 1 12520
+preplace netloc NV_parameter_load_0_amp_c 1 11 9 4610 820 5150 1120 N 1120 N 1120 7000 1060 N 1060 N 1060 N 1060 9160
+preplace netloc De_Multiplexer_8b_0_data_out_3 1 8 6 3360 640 N 640 N 640 4450 630 5220 650 5770
+preplace netloc Test_normal_mode_MUX_0_Expansor_output_1 1 21 1 11080
+preplace netloc IGBT_input_selector_0_grid_T5 1 4 9 1900 280 N 280 N 280 N 280 N 280 N 280 N 280 N 280 N
+preplace netloc De_Multiplexer_8b_0_data_out_4 1 8 6 N 1660 N 1660 N 1660 4440 1790 N 1790 N
+preplace netloc Test_normal_mode_MUX_0_Expansor_output_2 1 21 1 11100
+preplace netloc IGBT_input_selector_0_grid_T6 1 4 9 1910 300 N 300 N 300 N 300 N 300 N 300 N 300 N 300 N
+preplace netloc Test_normal_mode_MUX_0_Expansor_output_3 1 21 1 11130
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 2 480 -320 960J
+preplace netloc gain_offset_truncation_1_out_V_fem_b_V 1 19 2 N 1720 10000
+preplace netloc processing_system7_0_DDR 1 1 25 450J -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 NJ -540 12630J
+preplace netloc ps7_0_axi_periph_M03_AXI 1 3 8 1370J -280 NJ -280 NJ -280 NJ -280 NJ -280 NJ -280 NJ -280 3800J
+preplace netloc axi_gpio_0_ip2intc_irpt 1 0 2 -40 -320 440
+preplace netloc xlconstant_14_dout 1 15 6 N 2150 N 2150 N 2150 N 2150 N 2150 9970
+preplace netloc xlconstant_2_dout 1 4 3 1850J 740 N 740 N
+preplace netloc DAC_121s101_0_nSYNC 1 20 6 10240 1510 N 1510 N 1510 N 1510 N 1510 N
+preplace netloc NV_parameter_load_0_DC_bus_fixed_volt 1 11 2 4600 790 5180
+preplace netloc xlconcat_0_dout 1 17 2 N 830 8310
+preplace netloc gen_referencias_0_T1 1 3 8 1390 1080 N 1080 2150 810 N 810 N 810 N 810 N 810 3810
+preplace netloc xlconstant_18_dout 1 12 2 N 2340 5780
+preplace netloc NV_parameter_load_0_phase_step_on 1 11 9 4550 760 5140 1240 N 1240 N 1240 N 1240 N 1240 N 1240 N 1240 9190
+preplace netloc gen_referencias_0_T2 1 3 8 1400 1100 N 1100 2160 820 N 820 N 820 N 820 N 820 3840
+preplace netloc gen_referencias_0_T3 1 3 8 1410 1110 N 1110 2170 840 N 840 3000 830 N 830 N 830 N
+preplace netloc gen_referencias_0_T4 1 3 8 1420 1130 N 1130 2190 850 N 850 N 850 N 850 N 850 N
+preplace netloc gain_offset_truncation_1_out_I_pmsm_c_V 1 19 2 9300 1610 10220
+preplace netloc gen_referencias_0_T5 1 3 8 1430 1140 N 1140 2210 870 N 870 N 870 N 870 N 870 N
+preplace netloc gen_referencias_0_T6 1 3 8 1380 1120 N 1120 2220 890 N 890 N 890 N 890 N 890 N
+preplace netloc gain_offset_truncation_0_out_V_dc_bus_V 1 19 2 9400 1650 10150
+preplace netloc gain_offset_truncation_0_out_I_LCL_1_a_V 1 19 2 9340 1710 10170
+preplace netloc DRIVER_DOWN_06_1 1 0 4 -60 1730 N 1730 N 1730 N
+preplace netloc gain_offset_truncation_0_out_I_LCL_2_a_V 1 19 2 9370 1750 10050
+preplace netloc gain_offset_truncation_0_out_V_grid_a_V 1 19 2 9350 1640 10120
+preplace netloc SDATA1_0_1 1 0 8 NJ 1940 NJ 1940 NJ 1940 NJ 1940 NJ 1940 NJ 1940 NJ 1940 2940J
+preplace netloc TCA9538_driver_input_0_nRST_out 1 6 20 2520 1530 NJ 1530 3370J 1650 NJ 1650 NJ 1650 NJ 1650 5230J 1580 NJ 1580 NJ 1580 NJ 1580 NJ 1580 NJ 1580 8250J 1980 9410J 1800 NJ 1800 11020J 1810 NJ 1810 NJ 1810 NJ 1810 12570J
+preplace netloc NV_io_controller_0_analog_output_maxValue_10 1 11 10 NJ 1930 5220 1510 N 1510 N 1510 N 1510 N 1510 N 1510 8260 2100 N 2100 10080
+preplace netloc NV_io_controller_0_analog_output_maxValue_11 1 11 10 NJ 1950 5240 1520 N 1520 N 1520 N 1520 N 1520 N 1520 8220 2120 N 2120 10060
+preplace netloc xlconstant_0_dout 1 15 6 6970 2600 N 2600 N 2600 N 2600 N 2600 10230
+preplace netloc Net1 1 21 4 11060 1680 N 1680 N 1680 12040
+preplace netloc NV_io_controller_0_analog_output_maxValue_12 1 11 10 NJ 1970 5250 1530 N 1530 N 1530 N 1530 N 1530 N 1530 8210 2140 N 2140 10030
+preplace netloc Net2 1 23 3 11850 1880 N 1880 NJ
+preplace netloc NV_io_controller_0_analog_output_maxValue_13 1 11 10 NJ 1990 5260 1540 N 1540 N 1540 N 1540 N 1540 N 1540 8200 2170 N 2170 N
+preplace netloc Net3 1 12 2 5140 2250 5750
+preplace netloc DAC_121s101_0_D1 1 20 6 9990 1150 N 1150 N 1150 N 1150 N 1150 12610
+preplace netloc NV_io_controller_0_analog_output_maxValue_14 1 11 10 NJ 2010 5270 1550 N 1550 N 1550 N 1550 N 1550 N 1550 8170 2190 N 2190 N
+preplace netloc NV_parameter_load_0_dt_C 1 11 8 4590 660 N 660 N 660 N 660 N 660 N 660 N 660 8340
+preplace netloc DAC_121s101_0_D2 1 20 6 N 1180 N 1180 N 1180 N 1180 N 1180 12600
+preplace netloc Net4 1 6 20 2510 1500 NJ 1500 NJ 1500 NJ 1500 3790J 1610 NJ 1610 5150J 1280 NJ 1280 NJ 1280 NJ 1280 NJ 1280 NJ 1280 NJ 1280 9250J 930 10240J 890 NJ 890 NJ 890 NJ 890 NJ 890 NJ
+preplace netloc NV_io_controller_0_analog_output_maxValue_15 1 11 10 NJ 2030 N 2030 5690 1560 N 1560 N 1560 N 1560 N 1560 8160 2210 N 2210 N
+preplace netloc DAC_121s101_0_D3 1 20 6 N 1200 N 1200 N 1200 N 1200 N 1200 12550
+preplace netloc Net5 1 6 20 2500 1030 NJ 1030 NJ 1030 NJ 1030 NJ 1030 4520J 720 5020J 1200 NJ 1200 NJ 1200 6990J 1210 NJ 1210 NJ 1210 NJ 1210 9240J 940 10010J 860 NJ 860 NJ 860 NJ 860 NJ 860 NJ
+preplace netloc NV_io_controller_0_analog_output_maxValue_16 1 11 10 NJ 2050 N 2050 5730 2430 N 2430 6970 2230 N 2230 N 2230 N 2230 N 2230 N
+preplace netloc start_peripheral_0_Start_ADC 1 7 15 2970 3140 NJ 3140 NJ 3140 NJ 3140 NJ 3140 NJ 3140 NJ 3140 NJ 3140 NJ 3140 N 3140 N 3140 N 3140 N 3140 N 3140 11040
+preplace netloc lcl_filter_0_IL2_b_r 1 18 2 8550 1300 9070
+preplace netloc Net6 1 11 9 4710 1560 5010 1210 N 1210 N 1210 6970 1220 N 1220 N 1220 N 1220 9210
+preplace netloc DAC_121s101_0_D4 1 20 6 10240 1160 N 1160 N 1160 N 1160 N 1160 N
+preplace netloc NV_io_controller_0_analog_output_maxValue_17 1 11 10 NJ 2070 N 2070 5720 2420 N 2420 7020 2250 N 2250 N 2250 N 2250 N 2250 N
+preplace netloc DAC_121s101_0_D5 1 20 6 N 1240 N 1240 N 1240 N 1240 N 1240 12480
+preplace netloc gain_offset_truncation_1_out_I_LCL_1_c_V 1 19 2 9390 1630 10230
+preplace netloc AD_5293_v2_0_CLK_OUT 1 25 1 12490
+preplace netloc DAC_121s101_0_D6 1 20 6 N 1260 N 1260 N 1260 N 1260 N 1260 12460
+preplace netloc grid_bridge3ph_0_Vc_r 1 15 4 7020 700 NJ 700 NJ 700 NJ
+preplace netloc DAC_121s101_0_D7 1 20 6 N 1280 N 1280 N 1280 N 1280 N 1280 12450
+preplace cgraphic comment_3 place left 150 0 textcolor 4 linecolor 3
+preplace cgraphic comment_2 place left 150 0 textcolor 4 linecolor 3
+preplace cgraphic comment_1 place left -163 158 textcolor 4 linecolor 3 linewidth 0
+preplace cgraphic comment_0 place left 36 -67 textcolor 4 linecolor 3 linewidth 0
+levelinfo -pg 1 -80 220 790 1210 1670 2030 2360 2770 3200 3520 3700 4210 4890 5470 5910 6760 7620 7810 8070 8860 9700 10780 11330 11690 11940 12240 12650 -top -2220 -bot 3460
+",
+   linecolor_comment_0: "",
+   linecolor_comment_1: "",
+   linktoobj_comment_2: "",
+   linktoobj_comment_3: "",
+   linktotype_comment_2: "bd_design",
+   linktotype_comment_3: "bd_design",
+   textcolor_comment_0: "",
+   textcolor_comment_1: "",
+}
+{
+   da_axi4_cnt: "15",
+   da_board_cnt: "30",
+   da_clkrst_cnt: "48",
+   da_ps7_cnt: "11",
+}
+{
+   /De_Multiplexer_8b_0/comment_0: "comment_0",
+   /De_Multiplexer_8b_0/comment_1: "comment_1",
+   /comment_0: "comment_2",
+   /comment_1: "comment_3",
+}

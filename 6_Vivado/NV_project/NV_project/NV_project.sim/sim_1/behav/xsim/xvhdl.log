@@ -1,0 +1,112 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/Modulator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gen_referencias
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/FSM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FSM
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/IP_test_mode.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test_normal_mode_MUX
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/start_peripheral.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity start_peripheral
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/NOT.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NOT_8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/DAC121s101_V2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DAC_121s101
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/AD5293_v2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AD_5293_v2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/AD_7476_input.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AD1RefComp
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/DeMultiplexer_8bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity De_Multiplexer_8b
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/IGBT_input_selector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity IGBT_input_selector
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/bit_order_adjust_tca9538.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bit_order_adjust_tca9538
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/serial_interrupt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity serial_interrupt
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/start_200ns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity start_200ns
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/new/3ph_modulator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity three_ph_modulator
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_gen_referencias_0_0/sim/NV_project_gen_referencias_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_gen_referencias_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_FSM_0_0/sim/NV_project_FSM_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_FSM_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/209a/hdl/vhdl/DCbus_dynamic.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DCbus_dynamic
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/209a/hdl/vhdl/DCbus_dynamic_mulbkb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DCbus_dynamic_mulbkb_MulnS_0
+INFO: [VRFC 10-307] analyzing entity DCbus_dynamic_mulbkb
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/209a/hdl/vhdl/DCbus_dynamic_mulcud.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DCbus_dynamic_mulcud_MulnS_1
+INFO: [VRFC 10-307] analyzing entity DCbus_dynamic_mulcud
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_DCbus_dynamic_0_0/sim/NV_project_DCbus_dynamic_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_DCbus_dynamic_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/749c/hdl/vhdl/grid_bridge3ph.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity grid_bridge3ph
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_grid_bridge3ph_0_0/sim/NV_project_grid_bridge3ph_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_grid_bridge3ph_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/5beb/hdl/vhdl/lcl_filter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lcl_filter
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_lcl_filter_0_0/sim/NV_project_lcl_filter_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_lcl_filter_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/f597/hdl/vhdl/grid.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity grid
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/f597/hdl/vhdl/grid_full_sine_V.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity grid_full_sine_V_rom
+INFO: [VRFC 10-307] analyzing entity grid_full_sine_V
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_grid_0_0/sim/NV_project_grid_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_grid_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_axi_gpio_0_1/sim/NV_project_axi_gpio_0_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_axi_gpio_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_rst_ps7_0_100M_0/sim/NV_project_rst_ps7_0_100M_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_rst_ps7_0_100M_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/bd66/hdl/NV_parameter_load_v1_0_S00_AXI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_parameter_load_v1_0_S00_AXI
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/bd66/hdl/NV_parameter_load_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_parameter_load_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_NV_parameter_load_0_0/sim/NV_project_NV_parameter_load_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_NV_parameter_load_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/8c95/hdl/NV_io_controller_v1_0_S00_AXI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_io_controller_v1_0_S00_AXI
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/8c95/hdl/NV_io_controller_v1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_io_controller_v1_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_NV_io_controller_0_0/sim/NV_project_NV_io_controller_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_NV_io_controller_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_Test_normal_mode_MUX_0_0/sim/NV_project_Test_normal_mode_MUX_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_Test_normal_mode_MUX_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_start_peripheral_0_0/sim/NV_project_start_peripheral_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_start_peripheral_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/3919/src/i2c_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity i2c_master_2
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/3919/src/i2c_2.vhd:62]
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/3919/src/i2c_2.vhd:65]
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/3919/src/i2c_2.vhd:68]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/3919/tca9538.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TCA9538_driver
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_TCA9538_driver_0_0/sim/NV_project_TCA9538_driver_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_TCA9538_driver_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/9731/hdl/vhdl/gain_offset_truncation.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gain_offset_truncation
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/9731/hdl/vhdl/gain_offset_truncbkb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gain_offset_truncbkb_MulnS_0
+INFO: [VRFC 10-307] analyzing entity gain_offset_truncbkb
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/9731/hdl/vhdl/gain_offset_trunccud.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gain_offset_trunccud_MulnS_1
+INFO: [VRFC 10-307] analyzing entity gain_offset_trunccud
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/9731/hdl/vhdl/gain_offset_truncdEe.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gain_offset_truncdEe_MulnS_2
+INFO: [VRFC 10-307] analyzing entity gain_offset_truncdEe
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_gain_offset_truncation_1_1/sim/NV_project_gain_offset_truncation_1_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_gain_offset_truncation_1_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/b893/TCA_9538_inputs.srcs/sources_1/new/i2c.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity i2c_master
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/b893/TCA_9538_inputs.srcs/sources_1/new/i2c.vhd:62]
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/b893/TCA_9538_inputs.srcs/sources_1/new/i2c.vhd:65]
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/b893/TCA_9538_inputs.srcs/sources_1/new/i2c.vhd:68]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ipshared/b893/TCA_9538_inputs.srcs/sources_1/new/tca_9538_input.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TCA9538_driver_input
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_TCA9538_driver_input_0_0/sim/NV_project_TCA9538_driver_input_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_TCA9538_driver_input_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_NOT_8_0_0/sim/NV_project_NOT_8_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_NOT_8_0_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/NV_project/NV_project/NV_project.srcs/sources_1/bd/NV_project/ip/NV_project_DAC_121s101_0_0/sim/NV_project_DAC_121s101_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NV_project_DAC_121s101_0_0

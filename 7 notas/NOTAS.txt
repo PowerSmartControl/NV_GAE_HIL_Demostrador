@@ -1,0 +1,10 @@
+JRF / PSC / 25/07/2019
+**********************
+
+-This is a previous version extracted from NV HIL project
+-It does include PMSM side systems but are not usable in this configuration
+-It is able to perform the following proofs:
+	*Preload DC bus from grid
+	*Work as a DC-DC converter
+	*Work as a regular inverter
+-It is not compatible with NV last version, neither it is its console

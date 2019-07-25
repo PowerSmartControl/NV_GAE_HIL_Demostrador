@@ -1,0 +1,24 @@
+*for programming this device a JTAG wire is neccessary, for instance:
+
+	https://store.digilentinc.com/jtag-hs3-programming-cable/
+
+*For using serial comunication a USB to mini USB wire is requiered (is the same as used in mobile phones)
+
+*board jumpers:
+
+--------------------------------------------
+|
+|	.	.	.
+|	.	.|	.|
+|	.|	.	.
+|
+|   -------------
+|   |		|
+|   |		|
+|   |Ethernet	|
+|   |+		|
+|   |		|
+|   |USB	|
+|   -------------
+|
+--------------------------------------------

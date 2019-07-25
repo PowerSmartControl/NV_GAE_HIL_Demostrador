@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\ASUS-PSC\Desktop\nvHIL_gamesa\Vivado\NV_project\NV_project\NV_project.sdk\FSBL\Debug\FSBL.elf
+	C:\Users\ASUS-PSC\Desktop\nvHIL_gamesa\Vivado\NV_project\NV_project\NV_project.sdk\NV_project_wrapper_hw_platform_0\NV_project_wrapper.bit
+	C:\Users\ASUS-PSC\Desktop\nvHIL_gamesa\Vivado\NV_project\NV_project\NV_project.sdk\bbbb\Debug\bbbb.elf
+}

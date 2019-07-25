@@ -1,0 +1,26 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2017.4                 C:/Xilinx/Vivado/2017.4
+Matlab 9.0.0.341360 (R2016a)            C:\Program Files\MATLAB\R2016a
+Vivado 2017.4                           C:/Xilinx/Vivado/2017.4
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: "C:\Users\Jorge\Documents\GitHub\nvHIL\hls\grid_3ph_inv_V...
+     Block: 'sysgen_grid_pmsm_inv/Vivado HLS6'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'sysgen_grid_pmsm_inv/Vivado HLS6'
+
+Details:
+
+C:\Users\Jorge\Documents\GitHub\nvHIL\hls\grid_3ph_inv_V2\grid_3ph_bridge_prj\sol_sysgen"
+directory specified in "Solution" parameter does not contain
+System Generator package created by Vivado HLS. To create System
+Generator package from Vivado HLS project select "Export RTL" for
+"System Generator for DSP".
+Error occurred during "Block Configuration".
+
+--------------------------------------------------------------------------------

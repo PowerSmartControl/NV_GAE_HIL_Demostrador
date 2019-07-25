@@ -1,0 +1,8 @@
+14:45:47 **** Auto Build of configuration Debug for project NV_FSBL_2 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: No se hace nada para `main-build'.
+
+14:45:48 Build Finished (took 180ms)
+

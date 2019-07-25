@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="NV_project_wrapper_hw_platform_3" key="programflash.hwplatform"/>
+	<item value="" key="NV_project_wrapper_hw_platform_3-imgFile"/>
+	<item value="qspi_single" key="NV_project_wrapper_hw_platform_3-flashType"/>
+	<item value="" key="NV_project_wrapper_hw_platform_3-offSet"/>
+	<item value="" key="NV_project_wrapper_hw_platform_0-offSet"/>
+	<item value="" key="NV_project_wrapper_hw_platform_0-imgFile"/>
+	<item value="Local" key="NV_project_wrapper_hw_platform_0-target"/>
+	<item value="qspi_single" key="NV_project_wrapper_hw_platform_0-flashType"/>
+	<item value="false" key="NV_project_wrapper_hw_platform_0-blankCheck"/>
+	<item value="Local" key="NV_project_wrapper_hw_platform_3-target"/>
+	<item value="false" key="NV_project_wrapper_hw_platform_3-verifyFlash"/>
+	<item value="false" key="NV_project_wrapper_hw_platform_0-verifyFlash"/>
+	<item value="" key="NV_project_wrapper_hw_platform_3-fsblFile"/>
+	<item value="" key="NV_project_wrapper_hw_platform_0-fsblFile"/>
+	<item value="false" key="NV_project_wrapper_hw_platform_3-blankCheck"/>
+	<item value="Auto Detect" key="NV_project_wrapper_hw_platform_3-device"/>
+	<item value="Auto Detect" key="NV_project_wrapper_hw_platform_0-device"/>
+</section>

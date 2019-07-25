@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="NV_project_wrapper_hw_platform_0-bmmFile"/>
+	<item value="Local" key="NV_project_wrapper_hw_platform_0-target"/>
+	<item value="NV_project_wrapper.bit" key="NV_project_wrapper_hw_platform_0-bitFile"/>
+	<item value="Local" key="NV_project_wrapper_hw_platform_3-target"/>
+	<item value="Local" key="NV_project_wrapper_hw_platform_1-target"/>
+	<item value="NV_project_wrapper.bit" key="NV_project_wrapper_hw_platform_3-bitFile"/>
+	<item value="false" key="NV_project_wrapper_hw_platform_1-partial_bit"/>
+	<item value="" key="NV_project_wrapper_hw_platform_3-bmmFile"/>
+	<item value="false" key="NV_project_wrapper_hw_platform_3-partial_bit"/>
+	<item value="false" key="NV_project_wrapper_hw_platform_0-partial_bit"/>
+	<item value="NV_project_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="NV_project_wrapper.bit" key="NV_project_wrapper_hw_platform_1-bitFile"/>
+	<item value="Auto Detect" key="NV_project_wrapper_hw_platform_3-device"/>
+	<item value="Auto Detect" key="NV_project_wrapper_hw_platform_0-device"/>
+	<item value="" key="NV_project_wrapper_hw_platform_1-bmmFile"/>
+	<item value="Auto Detect" key="NV_project_wrapper_hw_platform_1-device"/>
+</section>

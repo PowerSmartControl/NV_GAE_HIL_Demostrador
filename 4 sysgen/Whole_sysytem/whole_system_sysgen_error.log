@@ -1,0 +1,19 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2017.4                 C:/Xilinx/Vivado/2017.4
+Matlab 9.0.0.341360 (R2016a)            C:\Program Files\MATLAB\R2016a
+Vivado 2017.4                           C:/Xilinx/Vivado/2017.4
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Sysgen cannot simulate designs with combinational feedback
+     Block: Unspecified
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  Unspecified
+
+Details:
+Sysgen cannot simulate designs with combinational feedback
+--------------------------------------------------------------------------------

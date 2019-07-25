@@ -1,0 +1,53 @@
+//constants
+//**************
+	TT = 3.14159
+	pi=3.1416
+	Vp =1
+	fsw = 5k//3.2k
+	Fsample=2*fsw
+	fsample=2*fsw
+
+//Power stage_grid inverter
+//****************************
+	Vdcref=800
+	Po=150k
+	fline = 50
+	L=600u //Leq = L1+L2
+	Lw = 2*pi*fline*L
+	VgLLrms = 400
+	R_prec = 220
+	//Current compensator
+		Kpi= 800m
+		Tii=3m
+	//Voltage compensator
+		Kpv =  1300
+		Tiv = 1m
+
+//Power stage_PMSM
+//**********************
+	p = 20*2
+	Ld = 1895u
+	Lq = 1895u
+	Ls=0.9*Ld
+	Vpk= 9.087k
+	Rs = 0.05
+	J = 0.025	//inertia moment of rotor
+	Vd=800
+	Tem_nom=18.48k
+	//Wind
+		V_wind = 10.76
+		Cp = 0.5
+		R_palas = 10
+		p_aire = 1.225	//air density @25ºC
+		A = TT *R_palas*R_palas
+		J_tur = 0.025
+	//d current compensator
+		Kpid=2.5
+		Kiid=1m
+	//q current compensator
+		Kpiq=3.5
+		Kiiq=2m
+	//speed compensator
+		Kpw=17.51
+		Kiw=45.16m
+
